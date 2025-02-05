@@ -16,8 +16,8 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 
 ### 💻 Projetos e Desafios  
 Veja os projetos e desafios que completei durante a formação:
-- [Desafio 1: ]()
-- [Desafio 2: ]()
+- [Desafio 1: Criação de um Phishing com o Kali Linux]()
+- [Desafio 2: Entendendo um Ransomware na Prática com Python]()
 
 ### 🔗 Links Úteis
 - [Formação Cybersecurity Specialist](https://web.dio.me/track/formacao-cybersecurity)
