@@ -3,9 +3,9 @@
 Este repositório corresponde ao conteúdo do Desafio #02 da [Formação Cybersecurity Specialist](https://web.dio.me/track/formacao-cybersecurity) para criação de Ransomware para criptografar arquivos utilizando a linguagem `Python`.
 
 ### Índice
-- [Desafio de Projeto]()
-- [Ferramentas Utilizadas]()
-- [Habilidades Técnicas]()
+- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2302-Entendendo-um-Ransomware#-desafio-de-projeto)
+- [Ferramentas Utilizadas](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2302-Entendendo-um-Ransomware#%EF%B8%8F-ferramentas-utilizadas)
+- [Habilidades Técnicas](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2302-Entendendo-um-Ransomware#%EF%B8%8F-habilidades-t%C3%A9cnicas)
 
 ### 🎯 Desafio de Projeto
 Neste desafio de projeto, iremos implementar um Ransomware para criptografar arquivos utilizando a linguagem `Python`.
