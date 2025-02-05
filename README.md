@@ -11,6 +11,7 @@ Este repositório está organizado para armazenar e gerenciar todos os materiais
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para os estudos:
+- [Artigo sobre Cyber Security](https://www.linkedin.com/pulse/cyber-security-um-guia-simplificado-sobre-o-tema-vinicius-durbano/) - Um guia simplificado sobre o tema.
 - [HackXpert](https://hackxpert.com/) - Laboratórios e treinamentos gratuitos.
 - [TryHackMe](https://tryhackme.com/) - Exercícios práticos e laboratórios.
 - [CyberSecLabs](https://www.cyberseclabs.co.uk/) - Laboratórios de treinamento de alta qualidade.
