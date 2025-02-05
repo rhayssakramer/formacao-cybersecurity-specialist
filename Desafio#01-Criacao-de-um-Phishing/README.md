@@ -3,18 +3,18 @@
 Este repositório corresponde ao conteúdo do Desafio #01 da `Formação Cybersecurity Specialist` da DIO para criação de Phishing para captura de senhas e informações.
 
 ### Índice
-- [Desafio de Projeto]()
-- [Ferramentas Utilizadas]()
-- [Configurando o Kali Linux (Primeira Opção)]()
-- [Configurando o Kali Linux (Segunda Opção)]()
+- [Desafio de Projeto](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2301-Criacao-de-um-Phishing#-desafio-de-projeto)
+- [Ferramentas Utilizadas](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2301-Criacao-de-um-Phishing#%EF%B8%8F-ferramentas-utilizadas)
+- [Configurando o Kali Linux (Primeira Opção)](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2301-Criacao-de-um-Phishing#%EF%B8%8F-configurando-o-kali-linux-primeira-op%C3%A7%C3%A3o)
+- [Configurando o Kali Linux (Segunda Opção)](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2301-Criacao-de-um-Phishing#%EF%B8%8F-configurando-o-kali-linux-segunda-op%C3%A7%C3%A3o)
 
 ### 🎯 Desafio de Projeto
 Nesta etapa vamos criar um Phishing para capturar senhas de login do Facebook utilizando a ferramenta setoolkit para criar uma página falsa do Facebook.
 
-## ⚙️ Ferramentas Utilizadas
+### ⚙️ Ferramentas Utilizadas
 - [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
   
-## 🛠️ Configurando o Kali Linux (Primeira Opção)
+### 🛠️ Configurando o Kali Linux (Primeira Opção)
 ``` 
 • Acesso root: sudo su
 • Iniciando o setoolkit: setoolkit
@@ -26,13 +26,13 @@ Nesta etapa vamos criar um Phishing para capturar senhas de login do Facebook u
 • URL para clone: http://www.facebook.com 
 ```
 
-## ✅ Resultado
-![passwd](rhayssakramer/formacao-cybersecurity-specialist/Desafio#01-Criacao-de-um-Phishing/img/image.png)
+### ✅ Resultado
+![passwd](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/blob/main/Desafio%2301-Criacao-de-um-Phishing/img/image.png)
 
-## ⚠️ Dificuldades em realizar o exercício?
+### ⚠️ Dificuldades em realizar o exercício?
 Caso o comando `Site Cloner` esteja apresentando `_user:0` ou outro erro, você poderá alterar algumas opções que levarão ao mesmo caminho, que é a obtenção de senhas. 
 
-## 🛠️ Configurando o Kali Linux (Segunda Opção)
+### 🛠️ Configurando o Kali Linux (Segunda Opção)
 ``` 
 • Acesso root: sudo su
 • Iniciando o setoolkit: setoolkit
@@ -44,16 +44,14 @@ Caso o comando `Site Cloner` esteja apresentando `_user:0` ou outro erro, você 
 • URL para clone: http://www.facebook.com
 ```
 
-## ✅ Resultado
-![doc 1](rhayssakramer/formacao-cybersecurity-specialist/Desafio#01-Criacao-de-um-Phishing/img/image-1.png)
-![doc 2](image-2.png)
+### ✅ Resultado
+![doc 1](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/blob/main/Desafio%2301-Criacao-de-um-Phishing/img/image-1.png)
+![doc 2](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/blob/main/Desafio%2301-Criacao-de-um-Phishing/img/image-2.png)
 
 ### ▶️ Instruções de Uso
 
 1. Clone ou baixe este repositório para a sua máquina local.
-
 2. Certifique-se de ter o [Virtual Box](https://www.virtualbox.org/wiki/Downloads), o [Kali Linux](https://www.kali.org/get-kali/#kali-platforms) e o [MetasPloitable](https://sourceforge.net/projects/metasploitable/) instalado em sua máquina.
-
 
 ### 🖋️ Créditos
 Este projeto foi desenvolvido como parte de avaliação de desafio da `Formação Cybersecurity Specialist`, para avaliar o ensinado na formação.
