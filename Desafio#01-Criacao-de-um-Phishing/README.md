@@ -54,7 +54,7 @@ Caso o comando `Site Cloner` esteja apresentando `_user:0` ou outro erro, você 
 2. Certifique-se de ter o [Virtual Box](https://www.virtualbox.org/wiki/Downloads), o [Kali Linux](https://www.kali.org/get-kali/#kali-platforms) e o [MetasPloitable](https://sourceforge.net/projects/metasploitable/) instalado em sua máquina.
 
 ### 🖋️ Créditos
-Este projeto foi desenvolvido como parte de avaliação de desafio da `Formação Cybersecurity Specialist`, para avaliar o ensinado na formação.
+Este projeto foi desenvolvido como parte de avaliação de desafio da Formação Cybersecurity Specialist, para avaliar o ensinado na formação.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
