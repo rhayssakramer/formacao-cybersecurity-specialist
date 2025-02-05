@@ -32,8 +32,8 @@ Aqui você encontrará uma lista de recursos úteis para os estudos:
 
 ### 💻 Projetos e Desafios  
 Veja os projetos e desafios que completei durante a formação:
-- [Desafio 1: Criação de um Phishing com o Kali Linux]()
-- [Desafio 2: Entendendo um Ransomware na Prática com Python]()
+- [Desafio 1: Criação de um Phishing com o Kali Linux](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2301-Criacao-de-um-Phishing)
+- [Desafio 2: Entendendo um Ransomware na Prática com Python](https://github.com/rhayssakramer/formacao-cybersecurity-specialist/tree/main/Desafio%2302-Entendendo-um-Ransomware)
 
 ### 🔗 Links Úteis
 - [Formação Cybersecurity Specialist](https://web.dio.me/track/formacao-cybersecurity)
